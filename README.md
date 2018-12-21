@@ -1,5 +1,5 @@
 # Vue-video
-##**Vue电影信息影评网站** ##
+##**Vue电影信息影评网站** ## https://segmentfault.com/a/1190000015311803
 
   此网站是我的毕业设计，题目是“基于HTML5的电影信息汇总弄网站”，由于最近在看Vue.js,所以就想用Vue.js来构建一个前端网站，这里code就不大篇幅的写了，主要讲一下网站的功能和所用到的技术栈，大家如果有问题的话可以去 [GitHub代码网址][1]上查看或者在下方留言。
     **技术栈**： Vue.js+ThinkPHP+MySql+Vue-router+Node.js
